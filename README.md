@@ -1,5 +1,5 @@
-# covbrowser
-Backend services for covbrowser.org
+# bog2020
+Demos presented at Biology of Genomes 2020
 
 # Test locally
 
